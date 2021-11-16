@@ -11,3 +11,4 @@ Scrape any website
    :caption: Contents:
 
    intro
+   createbot
